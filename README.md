@@ -31,7 +31,7 @@ We collected our data from the Sloan Digital Sky Survey (SDSS). Afterwards, we p
 
 ## Key Findings
 1. Among the 3 models implemented, there were significant inconsistencies among each model's clusters.
-2. Due to these inconsistencies, this work doesn't point towards significant evidence of Quasar Clustering at 3 ≤ z ≤ 6.
+2. Due to these inconsistencies, there isn't significant evidence of Quasar Clustering at 3 ≤ z ≤ 6.
 
 ## Repository Information
 1. Quasar_Clustering_Full_Paper.pdf: Authored a full research paper of our work.  
